@@ -1,4 +1,4 @@
-# 💬 Sentiment Analysis using NLP (Project 2)
+# 💬 Sentiment Analysis using NLP
 
 ### **Objective**
 To build an automated system for classifying public opinion from social media text, demonstrating expertise in Natural Language Processing (NLP) and multi-class classification.
